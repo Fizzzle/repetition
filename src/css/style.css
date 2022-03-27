@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+html {
+    background-color: #ffffe0;
+}
+
+h1{
+    color: #cc0000;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 30px;
+    margin-bottom: 13px;
+}
+
+h2{
+    color: #cc0000;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 30px;
+    margin-bottom: 13px;
+}
+
+p{
+    font-size: 13.3px;
+    margin: 13px 20px
+}
+
+img{
+    display: block;
+    margin: 13px 20px;
+}
+
+.italic {
+    font-style: italic;
+}
